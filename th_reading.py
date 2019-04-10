@@ -65,7 +65,7 @@ def picker():
 	os.remove(path + filelist[0])
 	return f
 
-token = '788912243:AAHoqgcjX8Oqz04Z1ndGAl3JPBZl7ePKgFc'
+token = 'your token here'
 print('Start')
 
 bot = telepot.Bot(token)
